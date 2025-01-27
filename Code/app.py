@@ -6,7 +6,7 @@ app = Flask(__name__)
 def map_lng_keywords(src_lng,tgt_lng):
     lng_keywords_dict={'en':'en_Latn','te': 'tel_Telu', 'hi': 'hin_Deva', 'mr': 'mar_Deva', 'or': 'ory_Orya', 'bn': 'ben_Beng', 'ur': 'urd_Arab', 'ml': 'mal_Mlym', 'ta': 'tam_Taml', 'pa': 'pan_Guru', 'kn': 'kan_Knda'}
     src_lng,tgt_lng=lng_keywords_dict[src_lng],lng_keywords_dict[tgt_lng]
-    return (src_lng,tgt_lng)
+    return (src_lng,tgt_lng) 
 
 @app.route('/')
 def index():
