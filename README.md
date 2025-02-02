@@ -14,8 +14,6 @@ Bhasha Bridge is a web-based application designed to facilitate language transla
 ## **Technologies Used**
 - **Python**: Core programming language for backend development.
 - **Flask**: Web framework for building the application.
-- **Google Cloud Translation API**: Ensures accurate language translation.
-- **gTTS (Google Text-to-Speech)**: Converts text to speech.
 - **HTML/CSS/JavaScript**: Frontend technologies for UI development.
 - **dotenv**: Manages environment variables securely.
 
