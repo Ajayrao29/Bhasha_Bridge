@@ -1,15 +1,15 @@
-Setup Guide for Bhasha Bridge Language Translator
+**# Setup Guide for Bhasha Bridge Language Translator**
 
-Overview
+## **Overview**
 Bhasha Bridge is a web-based application designed to facilitate language translation and communication across different languages. It leverages advanced Natural Language Processing (NLP) techniques to provide real-time translation services, making it easier for users to communicate in multilingual environments.
 
-Features
-- 🌐 Multi-Language Support**: Seamless text translation between multiple languages.
-- 💬 Real-Time Translation**: Instant translation of text input.
-- 📜 Text-to-Speech: Converts translated text into speech.
-- 📝 History Log: Keeps a record of previous translations.
-- 🔍 Language Detection: Auto-detects the source language.
-- 📱 Responsive Design: Optimized for both desktop and mobile devices.
+## **Features**
+- 🌐 **Multi-Language Support**: Seamless text translation between multiple languages.
+- 💬 **Real-Time Translation**: Instant translation of text input.
+- 📜 **Text-to-Speech**: Converts translated text into speech.
+- 📝 **History Log**: Keeps a record of previous translations.
+- 🔍 **Language Detection**: Auto-detects the source language.
+- 📱 **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## **Technologies Used**
 - **Python**: Core programming language for backend development.
