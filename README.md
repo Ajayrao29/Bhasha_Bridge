@@ -122,5 +122,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-This guide provides a structured approach to setting up the **Bhasha Bridge Language Translator**. If you have any questions, feel free to ask! 🚀
-
+Developed by Ajay Lingampalli and Team
